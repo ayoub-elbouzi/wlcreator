@@ -15,7 +15,7 @@ WlCreator is a program that will create all possibilities of passwords, and you 
 └─$ cd wlcreator
 ┌──(professor㉿kali)-[~/wlcreator]
 └─$ gcc -o wlcreator wlcreator.c
-┌──(professor㉿kali)-[~]
+┌──(professor㉿kali)-[~/wlcreator]
 └─$ ./wlcreator [ password length, example : 14 ]
 ```
 
