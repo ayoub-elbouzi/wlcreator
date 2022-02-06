@@ -9,10 +9,14 @@ WlCreator is a program that will create all possibilities of passwords, and you 
 
 ## Usage:
 ```
-git clone https://github.com/Pr0f3ssor/wlcreator
-cd wlcreator
-gcc -o wlcreator wlcreator.c
-./wlcreator [ password length, example : 14 ]
+┌──(professor㉿kali)-[~]
+└─$ git clone https://github.com/Pr0f3ssor/wlcreator
+┌──(professor㉿kali)-[~]
+└─$ cd wlcreator
+┌──(professor㉿kali)-[~/wlcreator]
+└─$ gcc -o wlcreator wlcreator.c
+┌──(professor㉿kali)-[~]
+└─$ ./wlcreator [ password length, example : 14 ]
 ```
 
 ## Credits :
