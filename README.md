@@ -22,4 +22,4 @@ WlCreator is a program that will create all possibilities of passwords, and you 
 ## Credits :
 This Script/Tool is based on 'thelinuxchoice' script, you can check his github :
 
-github.com/thelinuxchoice
+https://github.com/thelinuxchoice
