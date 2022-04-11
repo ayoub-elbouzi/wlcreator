@@ -16,7 +16,9 @@ WlCreator is a program that will create all possibilities of passwords, and you 
 └─$ ./wlcreator [ password length, example : 14 ]
 ```
 
-## Author : https://github.com/Pr0f3ssor
+## Author :
+
+https://github.com/Pr0f3ssor
 
 ## Credits :
 
