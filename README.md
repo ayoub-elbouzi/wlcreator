@@ -1,10 +1,8 @@
 
 
 # WlCreator 
-## Author: github.com/Pr0f3ssor
 
 WlCreator is a program that will create all possibilities of passwords, and you can choose Lenght, Lowercase, Capital, Numbers and Special Chars.
-
 
 ## Usage:
 ```
@@ -18,7 +16,10 @@ WlCreator is a program that will create all possibilities of passwords, and you 
 └─$ ./wlcreator [ password length, example : 14 ]
 ```
 
+##Author : https://github.com/Pr0f3ssor
+
 ## Credits :
+
 This Script/Tool is based on 'thelinuxchoice' script, you can check his github :
 
 https://github.com/thelinuxchoice
