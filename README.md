@@ -2,7 +2,6 @@
 
 # WlCreator 
 ## Author: github.com/Pr0f3ssor
-## Linkedin : linkedin/in/ayoub-elbouzi 
 
 WlCreator is a program that will create all possibilities of passwords, and you can choose Lenght, Lowercase, Capital, Numbers and Special Chars.
 
